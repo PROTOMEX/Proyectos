@@ -2,7 +2,7 @@
 
 '''
 Nombre: Ioshua Daniel Fuertes Espinosa
-        A
+        Adrian Rodriguez de Matias
 Fecha: 08/05/2025
 Descripción: Sistema para encontrar la ruta más corta entre estaciones de metro
              utilizando el algoritmo BFS, permitiendo transbordos entre líneas.
